@@ -1,24 +1,48 @@
 "ALERT_CONTROLLER_TITLE" = "You selected button %@. What would you like to do to this button?";
+-> "Bạn đã chọn nút %@.Bạn muốn làm gì với nút này?"
 "CANCEL" = "Cancel";
+-> "Huỷ"
 "CHOOSE_IMAGES" = "Choose Images";
+-> "Chọn hình ảnh"
 "CHOOSE_PHOTO" = "Choose an Existing Photo";
+-> "Chọn hình ảnh hiện tại"
 "CONFIGURATION" = "Configuration";
+-> "Thiết lập"
 "CONTACT_THE_DEVELOPERS" = "Contact the Developers";
+-> "Liên hệ tác giả viết ứng dụng này"
 "DELETE_PHOTO" = "Delete Existing Image";
-"DISMISS" = "Dimiss";
+-> "Xoá hình ảnh hiện tại"
+"DISMISS" = "Dismiss";
+-> "Bỏ qua"
 "ENABLE" = "Enable";
+-> "Kích hoạt"
 "FACES_PRO" = "Faces Pro";
+-> "Ứng dụng Faces Pro"
 "NO_IMAGE_CURRENTLY_SAVED" = "You currently don't have an image saved for this button.";
+-> "Hiện tại bạn không có lưu hình ảnh cho nút này."
 "MAKERS" = "Makers";
+-> "Khởi tạo"
 "OPACITY" = "Opacity";
+-> "Đặc tính làm mờ"
 "REMOVE_BACKGROUND_TINT" = "Remove background tint color for images";
+-> "Xoá màu nền cho hình ảnh đã chọn"
 "REMOVE_CONTACT" = "Remove Contact";
+-> "Xoá hình đại diện"
 "RESPRING" = "Respring";
+-> "Khởi động lại"
 "RESPRING_MESSAGE" = "Unfortunately, you need to respring when you change the enable/disable tweak or when you change the opacity of the images. This may be fixed in a future update.";
+-> "Thật không may, bạn cần phải khởi động lại sau khi bạn thay đổi kích hoạt hay vô hiệu hóa tinh chỉnh hoặc khi bạn thay đổi độ mờ của hình ảnh. Việc này có thể sẽ được cố định ở bản cập nhật trong tương lai."
 "SELECT_NEW_CONTACT" = "Select a new contact";
+-> "Chọn hình đại diện mới"
 "SELECT_IMAGES_FOR_BUTTONS" = "Select the images for the buttons";
+-> "Chọn hình ảnh cho nút"
 "SET_BACKGROUND_TINT" = "Set a background tint color for images";
+-> "Cấu hình màu nền cho hình ảnh đã chọn"
 "SUPPORT" = "Support";
+-> "Hỗ trợ"
 "TAKE_OR_CHOOSE" = "Do you want to take a photo or choose an existing photo?";
+-> "Bạn có muốn chụp ảnh mới hoặc chọn một hình ảnh đã có sẳn"
 "TAKE_NEW_PHOTO" = "Take a new Photo";
+-> "Chụp một ảnh mới"
 "TAKE_PHOTO" = "Take a Photo";
+-> "Chụp ảnh"
